@@ -11,6 +11,8 @@ the src i leaked had keyauth in it so u just need to put new offsets and ur keya
 
 ***Download-> https://cdn.discordapp.com/attachments/918502871639662632/938335805234102303/WinSense_Ioctl_Src_leaked.rar***
 
+if ur getting crashed after putting key u need to remove that keyauth shit so it can inject
+
 this offsets r mostly wrong i will update here 
 
      World::Uworld 0xB613240
